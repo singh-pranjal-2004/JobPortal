@@ -42,7 +42,7 @@ void hrLogin()
     scanf("%d", &username);
     printf("Enter Password: ");
     scanf("%d", &password);
-    if (username == 1 && password == 1)
+    if (username == 26087 && password == 26087)
     {
         printf("\n***** Login successful *****\n\n");
         int a;
